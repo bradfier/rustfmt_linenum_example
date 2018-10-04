@@ -1,0 +1,6 @@
+[package]
+name = "rustfmt-linecount"
+version = "0.1.0"
+authors = ["Richard Bradfield <richard.bradfield@passfort.com>"]
+
+[dependencies]
